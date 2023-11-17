@@ -137,7 +137,7 @@ hr {
     align-items: flex-end;
 }
 
-@media screen and (max-width: 415px) {
+@media screen and (max-width: 450px) {
     main {
         padding: 0px 16px;
     }

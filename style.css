@@ -162,7 +162,7 @@ footer .nav-link {
   margin: 24px 0;
 }
 
-@media screen and (max-width: 415px) {
+@media screen and (max-width: 450px) {
   main {
     display: flex;
     flex-direction: column;
